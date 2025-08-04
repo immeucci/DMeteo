@@ -1,3 +1,3 @@
 # dmeteo
 
-A new Flutter project.
+A simple weather forecast application in flutter.
