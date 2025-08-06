@@ -1,4 +1,15 @@
 /// <summary>
 /// Enum representing possible weather conditions.
 /// </summary>
-enum WeatherCode { clear, cloudy, rain, storm, snow, fog, unknown }
+enum WeatherCode {
+  clear,
+  partlyCloudy,
+  cloudy,
+  fog,
+  rain,
+  snow,
+  snowShowers,
+  thunderstorm,
+  thunderstormWithHail,
+  unknown,
+}
